@@ -9,14 +9,14 @@ Getting started
 We confirmed that ***KARMA*** runs on Ubuntu 18.04. 
 * <span style="color:black;"> To access the source code, clone this repository using the following command: </span>
 
-<pre><code><span style="color:black;"> git clone https://github.com/anonymous-code-dev/anonymous.git && cd KAimera </span>
+<pre><code><span style="color:black;"> git clone https://github.com/anonymous-code-dev/anonymous.git && cd KARMA </span>
 </code></pre>
 
 Build environment
 -------------
 <span style="color:black;"> Our implementation environment is as follows: </span>
 
-* **Pytorch version 2.1.2**
+* **Pytorch version 2.2.1**
   
 * **TensorFlow 2.11.0**
   
