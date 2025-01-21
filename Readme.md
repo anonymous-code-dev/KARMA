@@ -28,7 +28,7 @@ If you want to see the whole environment list, you can confirm in <code>0.Gihub_
 Implementation
 -------------
 Once the repository and environment settings are complete, ***KARMA*** can run as following commands:  
-(If you want to see the code result directly, please check <code>0.Github_SWaT.ipynb</code> and <code>1.Github_WADI.ipynb</code>.)  
+(If you want to see the code result directly, please check <code>KARMA_SWaT.py</code> and <code>KARMA_WADI.py</code>.)  
 
 <pre><code>#SWaT 
 python KARMA_SWaT.py
