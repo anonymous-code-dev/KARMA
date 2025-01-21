@@ -22,9 +22,6 @@ Build environment
   
 * **Python 3.8.1**
 
-If you want to see the whole environment list, you can confirm in <code>0.Gihub_SWaT.ipynb</code> file.  
-(WADI and SWaT have the same implementation environment.)
-
 Implementation
 -------------
 Once the repository and environment settings are complete, ***KARMA*** can run as following commands:  
