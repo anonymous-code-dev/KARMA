@@ -30,10 +30,10 @@ Implementation
 Once the repository and environment settings are complete, ***KARMA*** can run as following commands:  
 (If you want to see the code result directly, please check <code>0.Github_SWaT.ipynb</code> and <code>1.Github_WADI.ipynb</code>.)  
 
-<pre><code>#SWaT distillation
-python Rawcode/Github_SWaT.py
+<pre><code>#SWaT 
+python KARMA_SWaT.py
   
-#WADI distillation
-python Rawcode/Github_WADI.py</code></pre>
+#WADI 
+python KARMA_WADI.py</code></pre>
 
 
