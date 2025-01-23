@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 **Dataset**
 
-The datasets utilized in this paper can be found in the datasets folder.
+The datasets utilized in this paper can be found in the ``datasets`` folder.
 
 Run
 -------------
