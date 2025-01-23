@@ -42,9 +42,9 @@ Once the repository and environment settings are complete, ***KARMA*** can run a
 (If you want to see the code result directly, please check <code>scripts/KARMA_SWaT.py</code> and <code>scripts/KARMA_WADI.py</code>)  
 
 <pre><code>#run on SWaT 
-python KARMA_SWaT.py
+python scripts/KARMA_SWaT.py
   
 #run on WADI 
-python KARMA_WADI.py</code></pre>
+python scripts/KARMA_WADI.py</code></pre>
 
 
