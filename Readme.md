@@ -6,9 +6,7 @@ This repository contains the ***KARMA*** implemented in python and the dataset.
 
 Getting started
 -------------
-We confirmed that ***KARMA*** runs on Ubuntu 20.04.
-
-* <span style="color:black;"> To access the source code, clone this repository using the following command: </span>
+To access the source code, clone this repository using the following command.
 
 **Clone the repo**
 
@@ -33,6 +31,9 @@ Python: 3.8.1
 ```bash
 pip install -r requirements.txt
 ```
+
+**Dataset**
+
 
 Run
 -------------
