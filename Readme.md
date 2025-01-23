@@ -13,7 +13,7 @@ We confirmed that ***KARMA*** runs on Ubuntu 20.04.
 **Clone the repo**
 
 ```bash
-<pre><code><span style="color:black;"> git clone https://github.com/anonymous-code-dev/anonymous.git && cd KARMA 
+git clone https://github.com/anonymous-code-dev/anonymous.git && cd KARMA 
 ```
 
 Build environment
