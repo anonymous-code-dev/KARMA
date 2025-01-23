@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Implementation
 -------------
 Once the repository and environment settings are complete, ***KARMA*** can run as following commands:  
-(If you want to see the code result directly, please check <code>KARMA_SWaT.py</code> and <code>KARMA_WADI.py</code>.)  
+(If you want to see the code result directly, please check <code>scripts/KARMA_SWaT.py</code> and <code>scripts/KARMA_WADI.py</code>.)  
 
 <pre><code>#SWaT 
 python KARMA_SWaT.py
