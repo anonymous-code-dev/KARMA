@@ -39,10 +39,10 @@ Implementation
 Once the repository and environment settings are complete, ***KARMA*** can run as following commands:  
 (If you want to see the code result directly, please check <code>scripts/KARMA_SWaT.py</code> and <code>scripts/KARMA_WADI.py</code>)  
 
-<pre><code>#SWaT 
+<pre><code>#run in SWaT 
 python KARMA_SWaT.py
   
-#WADI 
+#run in WADI 
 python KARMA_WADI.py</code></pre>
 
 
