@@ -21,9 +21,12 @@ Build environment
 <span style="color:black;"> Our implementation environment is as follows: </span>
 
 ### Requirements
-* Pytorch version 2.2.1 
-* TensorFlow 2.11.0
-* Python 3.8.1
+
+```
+Pytorch version 2.2.1 
+TensorFlow 2.11.0
+Python 3.8.1
+```
 
 ### Install packages
 
