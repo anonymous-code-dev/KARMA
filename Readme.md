@@ -14,6 +14,10 @@ To access the source code, clone this repository using the following command.
 git clone https://github.com/anonymous-code-dev/anonymous.git && cd KARMA 
 ```
 
+**Dataset**
+
+The datasets utilized in this paper can be found in the ``datasets`` folder.
+
 Build environment
 -------------
 <span style="color:black;"> Our code is run in the following environment as follows. </span>
@@ -31,10 +35,6 @@ Python: 3.8.1
 ```bash
 pip install -r requirements.txt
 ```
-
-**Dataset**
-
-The datasets utilized in this paper can be found in the ``datasets`` folder.
 
 Run
 -------------
