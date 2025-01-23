@@ -25,6 +25,12 @@ Build environment
 * TensorFlow 2.11.0
 * Python 3.8.1
 
+### Install packages
+
+```bash
+pip install -r requirements.txt
+```
+
 Implementation
 -------------
 Once the repository and environment settings are complete, ***KARMA*** can run as following commands:  
