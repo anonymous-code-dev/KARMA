@@ -16,7 +16,8 @@ git clone https://github.com/anonymous-code-dev/anonymous.git && cd KARMA
 
 **Dataset**
 
-The datasets utilized in this paper can be found in the ``datasets`` folder.
+The datasets utilized in this paper can be found in the ``datasets`` folder.\
+(You can also obtain the original datasets by requesting them from [iTrust](https://itrust.sutd.edu.sg/).)
 
 Build environment
 -------------
