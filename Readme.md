@@ -8,6 +8,7 @@ Getting started
 -------------
 We confirmed that ***KARMA*** runs on Ubuntu 20.04.
 **Clone the repo**
+
 * <span style="color:black;"> To access the source code, clone this repository using the following command: </span>
 
 <pre><code><span style="color:black;"> git clone https://github.com/anonymous-code-dev/anonymous.git && cd KARMA </span>
