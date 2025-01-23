@@ -16,7 +16,7 @@ git clone https://github.com/anonymous-code-dev/anonymous.git && cd KARMA
 
 Build environment
 -------------
-<span style="color:black;"> Our implementation environment is as follows: </span>
+<span style="color:black;"> Our code is run in the following environment as follows. </span>
 
 ### Requirements
 
